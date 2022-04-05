@@ -1,2 +1,3 @@
 test ok
 lan test thu 2
+lan test thu 3
